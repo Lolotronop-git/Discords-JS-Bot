@@ -1,0 +1,1 @@
+node D:\dsbot\bot.js

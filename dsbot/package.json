@@ -1,0 +1,31 @@
+{
+  "name": "dsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "chalk": "^2.4.2",
+    "dependency-install": "0.0.11",
+    "discord.js": "^11.4.2",
+    "erlpack": "github:discordapp/erlpack",
+    "ffmpeg-binaries": "^4.0.0",
+    "hoek": "^6.1.2",
+    "libsodium-wrappers": "^0.7.4",
+    "minimatch": "^3.0.4",
+    "node-gyp": "^3.8.0",
+    "node-opus": "^0.3.1",
+    "npm": "^6.6.0",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2",
+    "stringstream": "^1.0.0",
+    "uws": "^99.0.0",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lolotronop",
+  "license": "ISC"
+}
